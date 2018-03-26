@@ -1,0 +1,14 @@
+{
+  "name": "tankwars",
+  "version": "1.0.0",
+  "description": "Real time multiplayer tank game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavya Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
